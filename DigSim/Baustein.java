@@ -1,5 +1,3 @@
-package SE1Projekt;
-
 public interface Baustein {
 	public boolean berechneErgebnis();
 
